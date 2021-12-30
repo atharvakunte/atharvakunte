@@ -1,4 +1,4 @@
-### Hello World! 👋
+### Namaste World! 🙏🏻🙏🏻👋
 - 💬 I'm an Electronics and telecommunication engineer and a web developer.
 - 🌱 I’m currently learning javascript.
 - 📫 How to reach me: athu.kunte@gmail.com
