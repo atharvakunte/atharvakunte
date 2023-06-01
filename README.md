@@ -1,9 +1,8 @@
 ### Namaste World! 🙏🏻🙏🏻👋
-- 💬 I'm an Electronics and telecommunication engineer and a web developer.
+- 💬 I'm a Salesforce Developer and a Web Developer.
 - 🌱 I’m currently learning javascript.
 - 📫 How to reach me: athu.kunte@gmail.com
-- 🌐 Checkout my website: https://atharvakunte.me
-- 📝 Checkout my blog: https://blog.atharvakunte.me
+- 🌐 Checkout my website: https://atharvakunte.github.io
 <!--
 **atharvakunte/atharvakunte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
