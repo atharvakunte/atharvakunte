@@ -1,6 +1,7 @@
-### Namaste World! 🙏🏻🙏🏻👋
-- 💬 I'm a Salesforce Developer and a Web Developer.
-- 🌱 I’m currently learning javascript.
+### Hi There!👋
+Welcome to my Github page.
+I'm a Salesforce Developer by Profession and a Web Developer by hobby. You would find my hobby projects using React, Html, Css, Js here.
+I’m currently focusing on learning core concepts of Js.
 - 📫 How to reach me: kunteatharva@gmail.com
 - 🌐 Checkout my website: https://atharvakunte.github.io
 <!--
